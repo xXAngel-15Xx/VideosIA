@@ -1,0 +1,229 @@
+{
+  "narracion-1.wav": [
+    {
+      "text": "Hola.",
+      "startMs": 320,
+      "endMs": 1300,
+      "timestampMs": 810,
+      "confidence": null
+    },
+    {
+      "text": " Hoy",
+      "startMs": 1520,
+      "endMs": 1800,
+      "timestampMs": 1660,
+      "confidence": null
+    },
+    {
+      "text": " vamos",
+      "startMs": 1800,
+      "endMs": 1980,
+      "timestampMs": 1890,
+      "confidence": null
+    },
+    {
+      "text": " a",
+      "startMs": 1980,
+      "endMs": 2220,
+      "timestampMs": 2100,
+      "confidence": null
+    },
+    {
+      "text": " hacer",
+      "startMs": 2220,
+      "endMs": 2340,
+      "timestampMs": 2280,
+      "confidence": null
+    },
+    {
+      "text": " un",
+      "startMs": 2340,
+      "endMs": 2520,
+      "timestampMs": 2430,
+      "confidence": null
+    },
+    {
+      "text": " volcán.",
+      "startMs": 2520,
+      "endMs": 2800,
+      "timestampMs": 2660,
+      "confidence": null
+    }
+  ],
+  "narracion-2.wav": [
+    {
+      "text": "Necesitas",
+      "startMs": 240,
+      "endMs": 780,
+      "timestampMs": 510,
+      "confidence": null
+    },
+    {
+      "text": " una",
+      "startMs": 780,
+      "endMs": 980,
+      "timestampMs": 880,
+      "confidence": null
+    },
+    {
+      "text": " botella,",
+      "startMs": 980,
+      "endMs": 1600,
+      "timestampMs": 1290,
+      "confidence": null
+    },
+    {
+      "text": " plastilina,",
+      "startMs": 1840,
+      "endMs": 2560,
+      "timestampMs": 2200,
+      "confidence": null
+    },
+    {
+      "text": " bicarbonato",
+      "startMs": 2680,
+      "endMs": 3240,
+      "timestampMs": 2960,
+      "confidence": null
+    },
+    {
+      "text": " y",
+      "startMs": 3240,
+      "endMs": 3360,
+      "timestampMs": 3300,
+      "confidence": null
+    },
+    {
+      "text": " vinagre.",
+      "startMs": 3360,
+      "endMs": 3600,
+      "timestampMs": 3480,
+      "confidence": null
+    }
+  ],
+  "narracion-3.wav": [
+    {
+      "text": "Primero,",
+      "startMs": 460,
+      "endMs": 1160,
+      "timestampMs": 810,
+      "confidence": null
+    },
+    {
+      "text": " cubre",
+      "startMs": 1420,
+      "endMs": 1620,
+      "timestampMs": 1520,
+      "confidence": null
+    },
+    {
+      "text": " la",
+      "startMs": 1620,
+      "endMs": 1800,
+      "timestampMs": 1710,
+      "confidence": null
+    },
+    {
+      "text": " botella",
+      "startMs": 1800,
+      "endMs": 2200,
+      "timestampMs": 2000,
+      "confidence": null
+    },
+    {
+      "text": " con",
+      "startMs": 2200,
+      "endMs": 2440,
+      "timestampMs": 2320,
+      "confidence": null
+    },
+    {
+      "text": " plastilina.",
+      "startMs": 2440,
+      "endMs": 3000,
+      "timestampMs": 2720,
+      "confidence": null
+    }
+  ],
+  "narracion-4.wav": [
+    {
+      "text": "Luego,",
+      "startMs": 360,
+      "endMs": 820,
+      "timestampMs": 590,
+      "confidence": null
+    },
+    {
+      "text": " agrega",
+      "startMs": 980,
+      "endMs": 1240,
+      "timestampMs": 1110,
+      "confidence": null
+    },
+    {
+      "text": " bicarbonato",
+      "startMs": 1240,
+      "endMs": 1840,
+      "timestampMs": 1540,
+      "confidence": null
+    },
+    {
+      "text": " y",
+      "startMs": 1840,
+      "endMs": 2000,
+      "timestampMs": 1920,
+      "confidence": null
+    },
+    {
+      "text": " colorante.",
+      "startMs": 2000,
+      "endMs": 2320,
+      "timestampMs": 2160,
+      "confidence": null
+    }
+  ],
+  "narracion-5.wav": [
+    {
+      "text": "Echa",
+      "startMs": 320,
+      "endMs": 540,
+      "timestampMs": 430,
+      "confidence": null
+    },
+    {
+      "text": " el",
+      "startMs": 540,
+      "endMs": 720,
+      "timestampMs": 630,
+      "confidence": null
+    },
+    {
+      "text": " vinagre",
+      "startMs": 720,
+      "endMs": 1200,
+      "timestampMs": 960,
+      "confidence": null
+    },
+    {
+      "text": " y",
+      "startMs": 1200,
+      "endMs": 1640,
+      "timestampMs": 1420,
+      "confidence": null
+    },
+    {
+      "text": "...",
+      "startMs": 1640,
+      "endMs": 1660,
+      "timestampMs": 1650,
+      "confidence": null
+    },
+    {
+      "text": " erupción.",
+      "startMs": 1860,
+      "endMs": 2000,
+      "timestampMs": 1930,
+      "confidence": null
+    }
+  ]
+}
